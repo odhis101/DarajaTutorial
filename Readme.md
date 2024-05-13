@@ -14,7 +14,7 @@ Before using this script, make sure you have the following:
 1. **Clone this repository** to your local machine or download the `stk_push.py` file:
 
     ```
-    git clone https://github.com/your-username/safaricom-daraja-vanilla-python.git
+    git clone https://github.com/odhis101/DarajaTutorial
     ```
 
 2. **Navigate to the project directory**:
@@ -71,7 +71,7 @@ Before using this endpoint, make sure you have the following:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/safaricom-daraja-flask-endpoint.git
+    git clone https://github.com/odhis101/DarajaTutorial
     ```
 
 2. Navigate to the project directory:
